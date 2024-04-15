@@ -40,8 +40,6 @@ When creating a project, yo need to give it a name, a key, and add a project lea
 3. Enter **Dragon Design Tees** as the project name. Note that Jira creates a Project key for you, but you can overwrite this if you want to. 
 4. Select **Submit** to create your new project.
 
-If you don’t follow the Getting started as an administrator tutorial, go to the main header, 
-
 **About project keys**
 
 Each project has a unique name (e.g. Dragon Design Tees) and a unique key (e.g. DDT). The project key becomes the first part of that project's issue keys, e.g. DDT-1, DDT-2, etc.
