@@ -35,7 +35,7 @@ To configure the base URL:
 
 When creating a project, yo need to give it a name, a key, and add a project lead. The name can be as descriptive as you want, and the key should be something meaningful. The project lead is usually the project manager, but can effectively be any user you select when creating the project.  
 
-1. Select **Projects > **Create project**, and then configure a new project.
+1. Select **Projects** > **Create project**, and then configure a new project.
 2. Select **Project management** as the project type.
 3. Enter **Dragon Design Tees** as the project name. Note that Jira creates a Project key for you, but you can overwrite this if you want to. 
 4. Select **Submit** to create your new project.
